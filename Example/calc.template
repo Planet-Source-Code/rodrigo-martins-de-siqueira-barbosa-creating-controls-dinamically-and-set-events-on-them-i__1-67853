@@ -1,0 +1,18 @@
+#Template file to create a calculator
+#ControlType=;ControlName=;ControlWidth=;ControlHeight=;ControlTop=;ControlLeft=;ControlCaption=;
+ControlType=vb.commandbutton;ControlName=Cmd1;ControlWidth=495;ControlHeight=495;ControlTop=3360;ControlLeft=7560;ControlCaption=1;
+ControlType=vb.commandbutton;ControlName=Cmd2;ControlWidth=495;ControlHeight=495;ControlTop=3360;ControlLeft=8160;ControlCaption=2;
+ControlType=vb.commandbutton;ControlName=Cmd3;ControlWidth=495;ControlHeight=495;ControlTop=3360;ControlLeft=8760;ControlCaption=3;
+ControlType=vb.commandbutton;ControlName=Cmd4;ControlWidth=495;ControlHeight=495;ControlTop=2760;ControlLeft=7560;ControlCaption=4;
+ControlType=vb.commandbutton;ControlName=Cmd5;ControlWidth=495;ControlHeight=495;ControlTop=2760;ControlLeft=8160;ControlCaption=5;
+ControlType=vb.commandbutton;ControlName=Cmd6;ControlWidth=495;ControlHeight=495;ControlTop=2760;ControlLeft=8760;ControlCaption=6;
+ControlType=vb.commandbutton;ControlName=Cmd7;ControlWidth=495;ControlHeight=495;ControlTop=2160;ControlLeft=7560;ControlCaption=7;
+ControlType=vb.commandbutton;ControlName=Cmd8;ControlWidth=495;ControlHeight=495;ControlTop=2160;ControlLeft=8160;ControlCaption=8;
+ControlType=vb.commandbutton;ControlName=Cmd9;ControlWidth=495;ControlHeight=495;ControlTop=2160;ControlLeft=8760;ControlCaption=9;
+ControlType=vb.commandbutton;ControlName=Cmd0;ControlWidth=495;ControlHeight=495;ControlTop=3960;ControlLeft=8160;ControlCaption=0;
+ControlType=vb.commandbutton;ControlName=CmdPlus;ControlWidth=495;ControlHeight=495;ControlTop=2160;ControlLeft=9360;ControlCaption=+;
+ControlType=vb.commandbutton;ControlName=CmdMinus;ControlWidth=495;ControlHeight=495;ControlTop=2760;ControlLeft=9360;ControlCaption=-;
+ControlType=vb.commandbutton;ControlName=CmdTimes;ControlWidth=495;ControlHeight=495;ControlTop=3360;ControlLeft=9360;ControlCaption=*;
+ControlType=vb.commandbutton;ControlName=CmdDivide;ControlWidth=495;ControlHeight=495;ControlTop=3960;ControlLeft=9360;ControlCaption=/;
+ControlType=vb.commandbutton;ControlName=CmdEqual;ControlWidth=495;ControlHeight=495;ControlTop=3960;ControlLeft=8760;ControlCaption==;
+ControlType=vb.Textbox;ControlName=TxtResult;ControlWidth=2295;ControlHeight=285;ControlTop=1800;ControlLeft=7560;ControlCaption=;
